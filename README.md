@@ -1,3 +1,7 @@
+Mini Jarvis (Voice Assistant)
+
+# Overview
+
 Mini Jarvis is a Python-based voice assistant designed to simplify your daily tasks. With intuitive voice commands, Mini Jarvis can provide information, manage tasks, and interact with your system seamlessly, making it your reliable virtual assistant.
 
 # Features
