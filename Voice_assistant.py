@@ -49,7 +49,7 @@ if __name__== "__main__":
                         speechtx(name)
 
                     elif "old are you" in data1:
-                        age = "i am Twenty year old"
+                        age = "i am Twenty one years old"
                         speechtx(age)
 
                     
